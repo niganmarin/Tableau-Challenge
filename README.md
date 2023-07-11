@@ -11,16 +11,13 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 
-### Dashboard Analysis 
+##### Dashboard Analysis
 
-#### Maps
-##### Map dashboard dives into start staion by each day of the month. The popular start stations do have larger shapes. Thus also displays the popular days. An analysis i can make are start staions are more popular at the end of the month compared to the beginning. Friday the 7th had very little action, no day at the end of the month shared this phenomana. The 2nd map counts bikeID by distinct count to see the popular bikeIDs, by day. Te same analysis can be made here on the difference of the start and end of the month. 
+### Maps
+#### Map dashboard dives into start station by each day of the month. The popular start stations do have larger shapes. This also displays the popular days. An analysis I can make are start stations are more popular at the end of the month compared to the beginning. Friday the 7th had very little action, no day at the end of the month shared this phenomena. The 2nd map counts bikeID by distinct count to see the popular bikeIDs, by day. The same analysis can be made here on the difference of the start and end of the month.
 
+### Trip Durations
+#### Trip durations dashboards analyze average trip duration by birth year. This shows a massive spike in people born in 1995 and their trip durations in comparison to the other birth years. I also analyzed the hour of start time and trip duration to show the most popular times the longest trip durations happen in. I analyzed between the hours of 8am and 6pm have a higher frequency than other hours. The final visualization shows trip duration by hour by start and stop time. This analyzes which days have the largest trip durations, and when they start and stop.
 
-#### Trip Durations
-##### Trip durations dashboards analyze average trip duration by birth year. This shows a massive spike in people born in 1995 and their trip durations in comparison to the other birth years. I also analyzed hour of starttime and trip duration to show the most popular times the longest trip durations happen in. I analyzed between the hours of 8am and 6pm have a higher frequency than other hours. The final visualization shows trip duration by hour by start and stop time. This analyzes which days have the largest trip durations, and when they start and stop. 
-
-#### Birth Year by Popular hour
-##### Trip duration is used here as well to analyze between the hours of 6am-10pm, which birth years are having the longest trip durations. It can give a view of which age groups had longer or shorter tri durations. Where do you fall in???
-
-
+### Birth Year by Popular hour
+#### Trip duration is used here as well to analyze between the hours of 6am-10pm, which birth years have the longest trip durations. It can give a view of which age groups had longer or shorter tri durations. Where do you fall in???
